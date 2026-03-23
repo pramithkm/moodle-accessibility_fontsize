@@ -23,3 +23,4 @@
  */
 
 $string['pluginname'] = '文字の大きさ';
+$string['pluginname'] = 'このプラグインは個人データを一切保存しません。';
